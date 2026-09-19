@@ -47,12 +47,11 @@ public class Devang {
 
 <div align="center">
 
-<a href="https://github.com/Devang0906/AI-Chat-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devang0906&repo=AI-Chat-bot&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Devang0906/AI-Chat-bot">AI Chat-bot
 </a>
+<br><br>
 
-<a href="https://github.com/Devang0906/Panchayat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devang0906&repo=Panchayat&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Devang0906/Panchayat">Panchayat-A residential community   
 </a>
 
 </div>
