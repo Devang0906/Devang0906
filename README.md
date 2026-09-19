@@ -64,7 +64,7 @@ public class Devang {
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,scala" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 
 ### 🌐 Web Development
 
