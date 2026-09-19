@@ -83,43 +83,45 @@ public class Devang {
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devang0906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=devang0906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devang0906&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=devang0906&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Devang's GitHub Stats">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devang0906&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devang0906&theme=tokyonight&hide_border=true" alt="Devang's GitHub Streak">
 
 </div>
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang0906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang0906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most Used Languages">
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devang0906&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devang0906&theme=tokyo-night&hide_border=true&area=true" alt="Devang's Contribution Graph">
 
 </div>
 
