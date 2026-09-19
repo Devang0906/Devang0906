@@ -1,26 +1,192 @@
-<h1 align="center">Hi 👋, I'm Devang Dixit</h1>
-<h3 align="center">CSE Student| Java Developer| AI & Web Development| Building The Future One Project at a Time🚀</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devang0906&label=Profile%20views&color=0e75b6&style=flat" alt="devang0906" /> </p>
+# 👋 Hi, I'm Devang Dixit
 
-- Project-1 [AI Chat-bot](https://github.com/Devang0906/AI-Chat-bot)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=CSE+Student;Java+Developer;AI+%26+Web+Development+Enthusiast;Building+The+Future+One+Project+At+A+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
-- Project-2 [Panchayat](https://github.com/Devang0906/Panchayat)
+<br/>
 
-- 📫 How to reach me **devangdixit5@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=devang0906&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devang dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devang dixit" height="30" width="40" /></a>
-<a href="https://instagram.com/itx_devang_dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_devang_dixit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devang dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devang dixit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devang_dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devang_dixit" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@devangdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@devangdixit" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devang0906&show_icons=true&locale=en" alt="devang0906" /></p>
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devang0906&" alt="devang0906" /></p>
+```java
+public class Devang {
+
+    String name = "Devang Dixit";
+    String role = "CSE Student & Developer";
+
+    String[] interests = {
+        "Java Development",
+        "Artificial Intelligence",
+        "Web Development",
+        "Problem Solving"
+    };
+
+    String goal = "Build impactful projects and keep learning 🚀";
+}
+```
+
+* 🎓 Computer Science Engineering Student
+* ☕ Java Developer
+* 🤖 Exploring Artificial Intelligence
+* 🌐 Passionate about Web Development
+* 🧠 Improving Data Structures & Algorithms
+* 🚀 Building real-world projects
+* 📚 Constantly learning new technologies
+* 💡 Interested in Hackathons and innovative ideas
+* 📫 Reach me at **[devangdixit5@gmail.com](mailto:devangdixit5@gmail.com)**
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Devang0906/AI-Chat-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devang0906&repo=AI-Chat-bot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Devang0906/Panchayat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devang0906&repo=Panchayat&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,scala" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devang0906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devang0906&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devang0906&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang0906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devang0906&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devang0906/Devang0906/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devang0906/Devang0906/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Devang0906/Devang0906/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:devangdixit5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/itx_devang_dixit">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/devang_dixit">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.hackerearth.com/@devangdixit">
+  <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Developer Quote
+
+<div align="center">
+
+### `"Code. Learn. Build. Repeat."`
+
+### 🚀 Turning ideas into projects, one commit at a time.
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+⭐ **If you like my projects, consider giving them a star!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
