@@ -83,17 +83,6 @@ public class Devang {
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=devang0906&theme=tokyonight&hide_border=true" alt="Devang's GitHub Streak">
-
-</div>
-
----
-
-
 
 # 🤝 Connect With Me
 
